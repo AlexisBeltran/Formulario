@@ -1,0 +1,21 @@
+html{
+    box-sizing: border-box;
+}
+*,*::before, *::after{
+    box-sizing: inherit;
+}
+/* ---- ---- ---- GLOBALES ---- ---- ---- */
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #e5e5e5;
+}
+main{
+    max-width: 900px;
+    width: 90%;
+    margin: auto;
+    padding: 40px;
+}
+/* ---- ---- ---- ESTILOS PARA NAVEGACION ---- ---- ---- */
+
+/* ---- ---- ---- MEDIAQUERIES ---- ---- ----*/
