@@ -127,5 +127,8 @@ main{
     color: #bb2929;
     opacity: 1;
 }
+.formulario-grupo-incorrecto .formulario-input{
+    border: 3px solid #bb2929;
+}
 
 /*---- ---- MediaQueries ---- ---- ----*/
