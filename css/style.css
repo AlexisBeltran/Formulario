@@ -109,8 +109,13 @@ main{
 }
 .formulario-mensaje-exito{
     font-size: 14px;
-    color: #119200;
+    color: #fff;
+    background-color: #1ed12d;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
     display: none;
+    
 }
 .formulario-mensaje-exito-activo{
     display: block;
